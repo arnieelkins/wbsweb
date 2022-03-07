@@ -1,1 +1,1 @@
-# wbsweb
+# wbsweb - the new wbs webapp
